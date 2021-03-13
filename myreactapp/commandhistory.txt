@@ -1,0 +1,1108 @@
+    1  git version
+    2  git
+    3  brew version
+    4  brew --version
+    5  brew intall git
+    6  brew install git
+    7  clear
+    8  pwd
+    9  ls
+   10  cd Do
+   11  cd Documents
+   12  ls
+   13  ls
+   14  cd WorkArea
+   15  ls
+   16  cd MobileApps
+   17  ls
+   18  cd ReactNativeApp
+   19  ls
+   20  cd blog
+   21  code .
+   22  yarn start
+   23  yarn start
+   24  git status
+   25  pwd
+   26  git user
+   27  git --help
+   28  git status
+   29  git help user
+   30  gituser
+   31  git config --list
+   32  git config user.name
+   33  git config user.name Jitendra-Yashwantrao
+   34  git config --list
+   35  git config user.email "jitendra.yashwantrao@gmail.com"
+   36  git add 
+   37  git status
+   38  pwd
+   39  git add _A
+   40  git add -A
+   41  git status
+   42  git checkout -b react-native-samples
+   43  git status
+   44  git commit -m "React Native - capability samples"
+   45  git push
+   46  git remote add react-native-samples https://github.com/Jitendra-Yashwantrao
+   47  git push
+   48  git remote add Jitendra-Yashwantrao  https://github.com/Jitendra-Yashwantrao
+   49  git status
+   50  git push
+   51  git push -u origin react-native-samples
+   52  git init
+   53  git status
+   54  git remote add Jitendra-Yashwantrao  https://github.com/Jitendra-Yashwantrao
+   55  git push
+   56  git push --set-upstream github
+   57      git push --set-upstream github react-native-samples
+   58      git push --set-upstream https://github.com/Jitendra-Yashwantrao react-native-samples
+   59  git config credential.helper store
+   60  git config --global credential.helper store
+   61  cd ..
+   62  git clone https://github.com/Jitendra-Yashwantrao/docker-react.git
+   63  ls
+   64  cd blog
+   65  git status
+   66  git push
+   67  git push react-native-samples
+   68  git push --set-upstream react-native-samples react-native-samples
+   69  git remote add origin https://github.com/Jitendra-Yashwantrao/react-native-samples.git
+   70  git push -u origin master
+   71  git push
+   72  git push --set-upstream origin react-native-samples
+   73  git status
+   74  killAll dock
+   75  killall Dock
+   76  ls
+   77  cd Documents
+   78  ls
+   79  cd WorkArea
+   80  ls
+   81  md ReactTestLibrary
+   82  mkdir ReactTestLibrary
+   83  cd ReactTestLibrary
+   84  yarn create-react-app
+   85  create-react-app comment-feed
+   86  find create-react-app
+   87  yarn create create-react-app comment-feed
+   88  yarn global add create-react-app
+   89  create-react-app comment-feed
+   90  yarn
+   91  create-react-app comment-feed
+   92  create-react-app comments-feed
+   93  cd comments-feed
+   94  yarn
+   95  yarn add react-testing-library
+   96  clear
+   97  yarn test watch
+   98  yarn test watch
+   99  cd ..
+  100  cd ..
+  101  pwd
+  102  create-react-app GuessTheWord
+  103  create-react-app guess-the-word
+  104  cd guess-the-word
+  105  code .
+  106  sudo rm -R /Library/Preferences/com.apple.Bluetooth.plist
+  107  cd Shapes1
+  108  ;s
+  109  cd src/Shapes1
+  110  go build
+  111  export PATH=/usr/local/Cellar/go/1.14.4/libexec/bin:$PATH
+  112  clear
+  113  ifconfig
+  114  ifconfig |grep -A utun1
+  115  clear
+  116  go version
+  117  brew install golang
+  118  go version 
+  119  pwd
+  120  ls
+  121  Desktop
+  122  cd Desktop
+  123  ls
+  124  ..
+  125  ..
+  126  pwd
+  127  cd ..
+  128  cd Documents
+  129  CD WorkArea
+  130  clear
+  131  git clone https://github.com/Jitendra-Yashwantrao/GoWorkShop.git
+  132  cd GoWorkShop
+  133  code .
+  134  print $HOME
+  135  print $GOROOT
+  136  go version
+  137  mkdir -p $HOME/go/{bin,src}
+  138  ls
+  139  ls -a
+  140  ..
+  141  ls
+  142  cd ..
+  143  ls
+  144  ~
+  145  print $HOME
+  146  cd $HOME
+  147  ls
+  148  cd go
+  149  ls
+  150  ..
+  151  cd ..
+  152  ls
+  153  cd ~/
+  154  touch .bash_profile
+  155  ls
+  156   ls -a
+  157  vi ~/.bash_profile
+  158  source ~/.bash_profile
+  159  print GOPATH
+  160  print $GOPATH
+  161  print PATH
+  162  print $PATH
+  163  vi ~/.bash_profile
+  164  source ~/.bash_profile
+  165  print $PATH
+  166  cd go/src
+  167  mkdir github.com
+  168  cd github.com
+  169  mkdir Jitendra-Yashwantrao
+  170  cd Jitendra-Yashwantrao
+  171  git clone https://github.com/Jitendra-Yashwantrao/GoWorkShop.git
+  172  code .
+  173  cd GoWorkShop
+  174  code .
+  175  echo $GOPATH
+  176  echo env
+  177  echo goenv
+  178  echo $goenv
+  179  ls
+  180  pwd
+  181  clear 
+  182  brew --version
+  183  brew install minikube
+  184  brew install kubectl
+  185  which brew
+  186  which minikube
+  187  which kubernetes
+  188  which kubectl
+  189  cd GoWorkShop
+  190  ]
+  191  export PATH=/usr/local/Cellar/go/1.14.4/libexec/bin:$PATH
+  192  clear
+  193  go main.go
+  194  go run main.go
+  195  go run main.go
+  196  go run main.go
+  197  clear
+  198  go run main.go
+  199  go run main.go
+  200  docker ps
+  201  docker logs f86cdda4dee5
+  202  docker logs f86cdda4dee5
+  203  clear
+  204  docker logs
+  205  docker ps
+  206  docker stop fc983e4ce7b6
+  207  docker log fc983e4ce7b6
+  208  docker logs fc983e4ce7b6
+  209  docker run redis
+  210  clear
+  211  docker images
+  212  docker system prune
+  213  docker run redis
+  214  clear
+  215  docker ps 
+  216  docker images
+  217  docker commit -c 'CMD ["redis-server"]' 9d1354a3b8de
+  218  docker images 
+  219  docker run 3bb9acef9c3e
+  220  docker -version
+  221  docker -version
+  222  docker --version
+  223  docker run busybox ls
+  224  docker run busybox echo hi there
+  225  docker ps --all
+  226  docker ps
+  227  docker system prune
+  228  docker pd --all
+  229  docker ps --all
+  230  docker create busybox echo hi ther
+  231  docker start 662b9c4d77a2a2d78556064356961aab05cc8711f343406119852f17e8842592
+  232  docker log 662b9c4d77a2a2d78556064356961aab05cc8711f343406119852f17e8842592
+  233  docker logs 662b9c4d77a2a2d78556064356961aab05cc8711f343406119852f17e8842592
+  234  docker ps
+  235  docker create busybox ping google.com
+  236  docker logs fc983e4ce7b68f9ac9bb3178fb30c692e75e43bfd3abb59bc796cba134e65015
+  237  docker ps
+  238  docker ps -a
+  239  docker start fc983e4ce7b68f9ac9bb3178fb30c692e75e43bfd3abb59bc796cba134e65015
+  240  docker logs fc983e4ce7b68f9ac9bb3178fb30c692e75e43bfd3abb59bc796cba134e65015
+  241  docker ps
+  242  docker logs fc983e4ce7b68f9ac9bb3178fb30c692e75e43bfd3abb59bc796cba134e65015
+  243  docker status fc983e4ce7b68f9ac9bb3178fb30c692e75e43bfd3abb59bc796cba134e65015
+  244  docker logs fc983e4ce7b68f9ac9bb3178fb30c692e75e43bfd3abb59bc796cba134e65015
+  245  docker ps -a
+  246  docker logs fc983e4ce7b6
+  247  docker run busybox ping google.com
+  248  docker run busybox ping google.com
+  249  docker ps
+  250  docker exec -it dc8132c42a56 redis-cli
+  251  clear
+  252  docker pd
+  253  docker ps
+  254  docker exec -it dc8132c42a56 zsh
+  255  docker exec -it dc8132c42a56 sh
+  256  clear
+  257  docker exec -it dc8132c42a56 sh
+  258  docker ps
+  259  docker exec -it 5558b0bd9d24 redis-client
+  260  docker exec -it 5558b0bd9d24 redis-cli
+  261  docker run -it busybox sh
+  262  ps
+  263  docker ps -a
+  264  docker stop 6801de317fd3
+  265  docker ps -a
+  266  docker start -it 6801de317fd3  sh
+  267  docker start 6801de317fd3
+  268  docker ps
+  269  docker exec -it 6801de317fd3 sh
+  270  mkdir redis-image
+  271  ls
+  272  cd redis-image
+  273  code .
+  274  ls
+  275  docker build .
+  276  ls
+  277  docker images
+  278  docker run 649655a0dad8
+  279  docker build .
+  280  docker system prune
+  281  clear
+  282  docker build .
+  283  docker ps -a
+  284  docker images
+  285  docker run 586ba482a996
+  286  clear
+  287  docker images
+  288  docker build -t mailjky/myredis:latest .
+  289  docker images
+  290  docker run mailjky/myredis
+  291  clear
+  292  docker run -it alpine sh
+  293  node -version
+  294  node --version
+  295  ls
+  296  cd ..
+  297  ls
+  298  mkdir workarea
+  299  cd workarea
+  300  mkdir simpleweb
+  301  cd simpleweb
+  302  code .
+  303  ls
+  304  npm install
+  305  ls
+  306  npm start
+  307  ls
+  308  docker build .
+  309  docker build .
+  310  docker build .
+  311  docker build .
+  312  node version
+  313  node --version
+  314  clear
+  315  docker build .
+  316  docker build .
+  317  docker build .
+  318  clear
+  319  docker build .
+  320  docker build .
+  321  docker systen prune
+  322  docker build .
+  323  docker build .
+  324  $ docker run -it node:15.0.1 npm install -g npm@7.0.5
+  325  docker run -it node:15.0.1 npm install -g npm@7.0.5
+  326  docker run -it node:14 npm install -g npm@7.0.5
+  327  docker run -it node:14 npm install -g npm@7.0.12
+  328  docker build .
+  329  docker system prune
+  330  docker system prune
+  331  docker build .
+  332  npm --version
+  333  docker ps
+  334  docker images
+  335  docker system prune
+  336  clear
+  337  docker images
+  338  docker system prune -a
+  339  clear
+  340  docker images
+  341  docker stop $(docker ps -a)
+  342  docker ps
+  343  docker system prune -a
+  344  clear
+  345  docker images
+  346  docker build .
+  347  docker system prune -a
+  348  docker build .
+  349  docker build .
+  350  docker build .
+  351  docker build .
+  352  docker build .
+  353  docker build .
+  354  docker images
+  355  docker images
+  356  docker build .
+  357  docker images
+  358  docker run -it dff999104186 sh
+  359  docker build -t mailjky/simpleweb .
+  360  docker run mailjky/simpleweb
+  361  ls
+  362  woekarea
+  363  workarea
+  364  cd workarea
+  365  ls
+  366  cd simpleweb
+  367  ls
+  368  code .
+  369  code .
+  370  docker images
+  371  docker run -p 8080:8080 mailjky/simpleweb
+  372  clear
+  373  docker run -p 5000:8080 mailjky/simpleweb
+  374  docker run it -p 5000:8080 mailjky/simpleweb
+  375  docker run -it -p 5000:8080 mailjky/simpleweb sh
+  376  go mod init github.com/gorilla/mux
+  377  run main.go
+  378  go run main.go
+  379  go run src/main.go
+  380  go build
+  381  cd src
+  382  go build
+  383  go get github.com/gorilla/mux
+  384  go get ./...
+  385  go get -u github.com/gorilla/mux
+  386  go env
+  387  ..
+  388  cd ..
+  389  ls
+  390  clear
+  391  go mod init
+  392  go mod init main
+  393  go init ./...
+  394  go mod init ./...
+  395  ls
+  396  go build
+  397  cd src
+  398  go build
+  399  ./src
+  400  ./src
+  401  go mod init ./...
+  402  go mod init main/main.go
+  403  go run main.go
+  404  go run main/main.go
+  405  go build 
+  406  go build main/main.go
+  407  go build main/main.go
+  408  go run main/main.go
+  409  print $GOPATH
+  410  go env
+  411  export PATH=/usr/local/Cellar/go/1.14.4/libexec/bin:$PATH
+  412  clear
+  413  go run main/main.go
+  414  go run main/main.go
+  415  go run main/main.go
+  416  go run main/main.go
+  417  go mod init
+  418  go run main/main.go
+  419  go run main/main.go
+  420  clear
+  421  go build
+  422  pwd
+  423  ~/.zshrc
+  424  docker ps
+  425  docker exec -it 7d3155df57e5 sh
+  426  gopath
+  427  go enb
+  428  go enb
+  429  go enb
+  430  go env
+  431  go env
+  432  export GOROOT=/usr/local/go
+  433  go env
+  434  zsh --version
+  435  chsh -s $(which zsh)
+  436  chsh -s $(which zsh)
+  437  chsh -s $(which zsh)
+  438  sudo chsh -s $(which zsh)
+  439  sudo chsh -s $(which zsh)
+  440  chsh -s $(which zsh)
+  441  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  442  code .
+  443  docker build -t mailjky/simpleweb .
+  444  docker run -it -p 8080:8080 mailjky/simpleweb sh
+  445  docker run -p 8080:8080 mailjky/simpleweb
+  446  docker build -t mailjky/simpleweb .
+  447  docker build -t mailjky/simpleweb .
+  448  docker build -t mailjky/simpleweb .
+  449  docker run -p 8080:8080 mailjky/simpleweb
+  450  cd ..
+  451  ls
+  452  git clone https://github.com/continuum-ajay-sahani/gomicro.git
+  453  ls
+  454  gomicro
+  455  cd gomicro
+  456  code .
+  457  go env
+  458  print $GOPATH
+  459  vi ~/.zshrc
+  460  ~
+  461  sudo ~/.zshrc
+  462  go env
+  463  print $PATH
+  464  print $GOPATH
+  465  print $HOME
+  466  export GOPATH=$HOME/go
+  467  print $GOPATH
+  468  export PATH=$PATH:$GOPATH/bin
+  469  ..
+  470  cd ..
+  471  ls
+  472  ticket-api
+  473  cd ticket-api
+  474  go run main/main.go
+  475  go env
+  476  cd /usr/local/
+  477  ls
+  478  go -version
+  479  go version
+  480  go env
+  481  cd ~
+  482  ls
+  483  cd workarea
+  484  ls
+  485  cd ticket-api
+  486  ls
+  487  go run main.go
+  488  go run main/main.go
+  489  cd ..
+  490  git clone https://github.com/Jitendra-Yashwantrao/ticket-api.git
+  491  git clone https://github.com/Jitendra-Yashwantrao/ticket-api.git
+  492  git config list
+  493  git config --list
+  494  git config --global user.name "Jitendra-Yashwantrao"
+  495  git config --global user.email "jitendra.yashwantrao@gmail.com"
+  496  git clone https://github.com/Jitendra-Yashwantrao/ticket-api.git
+  497  cd ticket-api
+  498  go mod init github.com/Jitendra-Yashwantrao/ticket-api
+  499  ls
+  500  go run main.go
+  501  go mod  github.com/Jitendra-Yashwantrao/ticket-api
+  502  go mod init github.com/Jitendra-Yashwantrao/ticket-api
+  503  go run main.go
+  504  go build
+  505  clear
+  506  go build
+  507  go
+  508   go mod
+  509  go mod tidy
+  510  clear
+  511  go build
+  512  go build
+  513  go build
+  514  cd ..
+  515  ls
+  516  cd gomicro
+  517  code .
+  518  ..
+  519  cd ..
+  520  cd ticket-api
+  521  code .
+  522  go build
+  523  ./ticket-api
+  524  ./ticket-api
+  525  go build
+  526  ./ticket-api
+  527  go build
+  528  ./ticket-api
+  529  gst
+  530  git status
+  531  gst
+  532  git status
+  533  git add .
+  534  git status
+  535  git commit -m "rest api for tickets"
+  536  git push
+  537  vi ~/.zshrc
+  538  go build
+  539  go build
+  540  go rum main.go
+  541  go run main.go
+  542  go build
+  543  ./ticket-api
+  544  go build
+  545  ./ticket-api
+  546  go build
+  547  ./ticket-api
+  548  cd src
+  549  go build
+  550  go build
+  551  go mod
+  552  go mod init
+  553  go mod init examples
+  554  cd twosum
+  555  run main.go
+  556  go run main.go
+  557  pwd
+  558  cd workarea
+  559  ls
+  560  cd examples
+  561  git status
+  562  git init
+  563  git status
+  564  git add .
+  565  git status
+  566  git commit -m "two sum"
+  567  git push
+  568  git remote add examples https://github.com/Jitendra-Yashwantrao
+  569  git push examples
+  570  git push --set-upstream examples master
+  571  git status
+  572  git remote add examples https://github.com/Jitendra-Yashwantrao/examples
+  573  git remote remove examples
+  574  git remote add examples https://github.com/Jitendra-Yashwantrao/examples
+  575  git status
+  576  git push --set-upstream examples master
+  577  git push -u origin master
+  578  git push --set-upstream examples master
+  579  pwd
+  580  ls
+  581  cd workarea
+  582  ls
+  583  examples
+  584  git status
+  585  git add .
+  586  git status
+  587  git commit -m "Binary search"
+  588  git push
+  589  go run slices/goslices.go
+  590  ..
+  591  go run slices/goslices.go
+  592  clear
+  593  git status
+  594  git add .
+  595  git status
+  596  git commit -m "go slices"
+  597  git push
+  598  git status
+  599  pwd
+  600  ls
+  601  workarea
+  602  ls
+  603  examples
+  604  gst
+  605  git status
+  606  clear
+  607  go run linkedlist/list.go
+  608  git add .
+  609  git commit -m "go linked list "
+  610  git push
+  611  go test mergesort/*.go -v
+  612  git status
+  613  git add .
+  614  git commit -m "merge sort in go wit divide and conquer method"
+  615  git push
+  616  clear
+  617  go test threesome/*.go -v
+  618  pwd
+  619  go test threesum/*.go -v
+  620  go test threesum/threesum_test.go -v
+  621  threesum
+  622  go build
+  623  go test *.* -v
+  624  threesum
+  625  go test *.* -v
+  626  clear
+  627  go test *.* -v
+  628  git status
+  629  git add -p
+  630  git status
+  631  git add .
+  632  git status
+  633  git commit - m "threesome problem"
+  634  git commit -m "threesome problem"
+  635  git push
+  636  ..
+  637  bfstraversal/go run bfs.go
+  638  go run bfstraversal/bfs.go
+  639  git status
+  640  git add .
+  641  git status
+  642  git commit -m "Threesum and level order traversal"
+  643  git push
+  644  clear
+  645  go run gochan/run.go
+  646  clear
+  647  go run gochan/run.go
+  648  slices
+  649  go run goslices.go
+  650  ..
+  651  gochan
+  652  go run run.go
+  653  clear
+  654  go run run.go
+  655  ls -l
+  656  ls -l | more
+  657  ls -l -> temp
+  658  ls -l > temp
+  659  ls -l
+  660  more < temp
+  661  vi temp
+  662  rm temp
+  663  cat result.txt
+  664  vi result.txt
+  665  cat result.txt
+  666  cat result.txt | sort
+  667  cat result.txt | sort | unique
+  668  cat result.txt | sort | uniqu
+  669  cat result.txt | sort | uniq
+  670  vi result.txt
+  671  cat result.txt | sort | uniq
+  672  cat result.txt | sort
+  673  cat result.txt
+  674  cat result.txt | head -7
+  675  cat result.txt | head -7 | tail -5
+  676  cat result.txt | head -7 | tail -5| wc -l
+  677  help tee
+  678  help
+  679  tee -h
+  680  tee -help
+  681  tee --help
+  682  ls ~l
+  683  ls ~/
+  684  man tee
+  685  man grep
+  686  whatis grep
+  687  whatis tee
+  688  man tee
+  689  cat result.txt
+  690  cat result.txt | tee resultcopy.txt
+  691  ls
+  692  cat resultcopy.txt
+  693  find access.log
+  694  go mod init
+  695  pwd
+  696  ls
+  697  workarea
+  698  ls
+  699  ddd
+  700  gst
+  701  git status
+  702  ..
+  703  git clone https://github.com/Jitendra-Yashwantrao/DDD.git
+  704  ddd
+  705  git init
+  706  git status
+  707  git add .
+  708  git commit
+  709  git commit -m "initial commit"
+  710  git push
+  711  gst
+  712  git branch -M main
+  713  git push -u origin main
+  714  git remote add origin https://github.com/Jitendra-Yashwantrao/DDD.git
+  715  git push -u origin main
+  716  git push -u origin master
+  717  gst
+  718  ls
+  719  git push
+  720  git push --set-upstream origin main
+  721  git checkout master
+  722  git branches
+  723  git --help
+  724  git status
+  725  git push
+  726  ..
+  727  pwd
+  728  ls
+  729  workarea/
+  730  ls
+  731  mkdir ddd
+  732  ddd
+  733  echo "# DDD " >> README.md
+  734  git init
+  735  git add .
+  736  git commit -m "first commit"
+  737  git status
+  738  git branch -M main
+  739  git remote add origin https://github.com/Jitendra-Yashwantrao/DDD.git
+  740  git push -u origin main
+  741  ls
+  742  mod init
+  743  go mod init
+  744  go mod init DDD
+  745  go build
+  746  application
+  747  go run main.go
+  748  clear
+  749  go build
+  750  go run main.go
+  751  ..
+  752  ls
+  753  clear
+  754  ls
+  755  mkdir goconcurrency
+  756  goconcurrency
+  757  ls
+  758  go mod init goconcurrency
+  759  ls
+  760  code .
+  761  go build
+  762  go run main.go
+  763  go test ./...
+  764  go mod tidy
+  765  go run main.go
+  766  gst
+  767  echo "# Go Concurrency " >> README.md
+  768  git init
+  769  git add .
+  770  git commit -m "initial commit"
+  771  git branch -M main
+  772  git remote add origin https://github.com/Jitendra-Yashwantrao/goconcurrency.git
+  773  git push -u origin master
+  774  git push -u origin main
+  775  go run main.go
+  776  pwd
+  777  ls
+  778  workarea/ls
+  779  workarea
+  780  ls
+  781  mkdir dockerworkshop
+  782  dockerworkshop
+  783  clear
+  784  docker images
+  785  docker pull ubuntu
+  786  docker pull nginx
+  787  docker pull golang:alpine
+  788  docker pull redis
+  789  docker pull golang
+  790  docker pull golag
+  791  docker pull golang
+  792  docker pull redis:alpine
+  793  docker images
+  794  brew update
+  795  golang -v
+  796  golang -version
+  797  go -version
+  798  go -v
+  799  go --b
+  800  go --v
+  801  go help
+  802  go -version
+  803  go version
+  804  clear
+  805  workarea/dockerworkshop
+  806  git clone https://github.com/docker-ninja/go-app.git
+  807  cd go
+  808  ls
+  809  go-app
+  810  code .
+  811  go run main.go
+  812  docker images
+  813  watch docker ps
+  814  docker ps
+  815  brew install watch
+  816  ..
+  817  docker run -d --name=mynginx  nginx
+  818  watch docker ps
+  819  docker run -d --name=mynginx  nginx
+  820  docker run -d --name=mynginx1  nginx
+  821  docker run -d --name=mynginx2  nginx
+  822  docker stop mynginx
+  823  docker stop mynginx1
+  824  docker stop mynginx12
+  825  docker stop mynginx2
+  826  curl localhost:80
+  827  docker run -d -p 8080:80 nginx
+  828  curl localhost:80
+  829  curl localhost:8080
+  830  clear
+  831  docker ps
+  832  docker inspect ee68ad5182ec
+  833  docker logs -f ee68ad5182ec
+  834  curl localhost:8080
+  835  docker exec ee68ad5182ec touch "a.txt"
+  836  docker exec -it ee68ad5182ec sh
+  837  curl localhost:8080
+  838  docker ps
+  839  docker stop ee68ad5182ec
+  840  curl localhost:8080
+  841  docker ps -a
+  842  clear
+  843  ls
+  844  go-app
+  845  docker build -t mygoapp .
+  846  docker ps
+  847  docker images
+  848  docker run -p 80:8080 mygoapp
+  849  curl localhost:8080
+  850  curl localhost:80
+  851  docker ps
+  852  docker history mygoapp
+  853  docker ps
+  854  docker images
+  855  docker inspect mygoapp
+  856  c
+  857  docker history mygoapp
+  858  docker build -t mygoappNew .
+  859  docker build -t mygoappnew .
+  860  docker images
+  861  docker build -t mygoappnew .
+  862  docker images
+  863  docker run -d -p 80:8080 mygoappnew
+  864  curl localhost:80
+  865  docker ps
+  866  docker run -p 80:8080 mygoappnew
+  867  docker build -t mygoappnew .
+  868  docker images
+  869  docker run -p 80:8080 mygoappnew
+  870  docker images
+  871  docker build -t mygoappnew .
+  872  docker run -p 80:8080 mygoappnew
+  873  docker build -t mygoappnew .
+  874  docker run -p 80:8080 mygoappnew
+  875  docker build -t mygoappnew .
+  876  docker run -p 80:8080 mygoappnew
+  877  docker images
+  878  docker build -t mygoappnew .
+  879  docker run -p 80:8080 mygoappnew
+  880  curl localhost:80
+  881  screen ~/Library/Containers/com.docker.docker/Data/vms/0/tty
+  882  clear
+  883  docker create volume my_volume
+  884  docker volume create my_vol
+  885  docker volume ls
+  886  docker inspect my_vol
+  887  cd /var/lib/docker/volumes/my_vol/_data
+  888  cd ~/var/lib/docker/volumes/my_vol/_data
+  889  docker run -it -v my_vol:root -name volcontainer ubuntu
+  890  docker run -it -v my_vol:root --name volcontainer ubuntu
+  891  docker run -it -v my_vol:/root --name volcontainer ubuntu
+  892  docker container inspect volcontainer
+  893  docker -it exec volcontainer sh
+  894  docker exec -it  volcontainer sh
+  895  docker ps
+  896  docker nework ls
+  897  docker network ls
+  898  cleat
+  899  clear
+  900  ls
+  901  workarea
+  902  ls
+  903  simpleweb
+  904  ls
+  905  code .
+  906  ..
+  907  mkdir dockercomposedemo
+  908  dockercomposedemo
+  909  mkdir webapp
+  910  webapp
+  911  code .
+  912  docker build .
+  913  docker images
+  914  pwd
+  915  npm start
+  916  npm install
+  917  npm start
+  918  code .
+  919  docker build .
+  920  vi /etc/hosts
+  921  docker build .
+  922  pwd
+  923  workarea
+  924  ls
+  925  dockercomposedemo/webapp
+  926  docker build .
+  927  docker build -t mailjky/visitswebapp .
+  928  docker images
+  929  doker run redis
+  930  clear
+  931  dockr run redis
+  932  docker run redis
+  933  docker run mailjky/visitswebapp
+  934  npm start
+  935  docker build -t mailjky/visitswebapp .
+  936  docker run mailjky/visitswebapp
+  937  docker build -t mailjky/visitswebapp .
+  938  docker-compose up --build
+  939  docker ps
+  940  docker-compose down
+  941  docker ps
+  942  docker-compose up -d
+  943  docker ps
+  944  docker-compose down
+  945  docker ps
+  946  docker-compose up  -d -- build
+  947  docker-compose up  -d --build
+  948  docker ps
+  949  docker-compose down
+  950  docker ps
+  951  docker-compose up  -d --build
+  952  docker ps
+  953  docker-compose down
+  954  docker ps
+  955  docker-compose up --build
+  956  docker ps
+  957  docker-compose down
+  958  docker-compose up --build
+  959  docker ps
+  960  watch docker ps
+  961  docker-compose down
+  962  docker ps
+  963  node -v
+  964  ..
+  965  pwd
+  966  clear
+  967  curl -fsSL 'https://www.gocd.org/test-drive-gocd/try.sh' | bash -s 'https://download.gocd.org/test-drive/installers/21.1.0/12439/gocd-21.1.0-12439-1245-osx.zip'
+  968  ..
+  969  git init
+  970  git status
+  971  git add .
+  972  gst
+  973  touch .gitignore
+  974  gst
+  975  sudo code .gitignore
+  976  git status
+  977  git add .gitignore
+  978  gst
+  979  git help
+  980  git commit -m "inditial project with docker compose"
+  981  git remote add git@github.com:Jitendra-Yashwantrao/dockercomposedemo.git
+  982  git remote add -m git@github.com:Jitendra-Yashwantrao/dockercomposedemo.git
+  983  git remote add -m dockercomposedemo https://github.com/Jitendra-Yashwantrao/dockercomposedemo.git
+  984  git remote add --master dockercomposedemo https://github.com/Jitendra-Yashwantrao/dockercomposedemo.git
+  985  git remote add origin git@github.com:Jitendra-Yashwantrao/dockercomposedemo.git
+  986  git push -u origin master
+  987  sudo git push -u origin master
+  988  ls
+  989  git push -u origin master
+  990  git push
+  991  ..
+  992  gst
+  993  ls
+  994  git clone https://github.com/Jitendra-Yashwantrao/dockercomposedemo.git
+  995  git clone https://github.com/Jitendra-Yashwantrao/dockercomposeworkshop.git
+  996  cp dockercomposedemo/webapp dockercomposeworkshop
+  997  cp -R dockercomposedemo/webapp dockercomposeworkshop
+  998  dockercomposeworkshop
+  999  gst
+ 1000  git add .
+ 1001  git commit -m "inditial project with docker compose"
+ 1002  git push
+ 1003  ..
+ 1004  rm -R dockercomposedemo
+ 1005  rm dockercomposedemo
+ 1006  rm -r  dockercomposedemo
+ 1007  rm -rf  dockercomposedemo
+ 1008  ls
+ 1009  dockercomposeworkshop
+ 1010  npx create-react-app myreactapp
+ 1011  ls
+ 1012  npm -v
+ 1013  npx create-react-app myreactapp
+ 1014  yarn 
+ 1015  yarn create react-app myreactapp
+ 1016  brew updat
+ 1017  brew update
+ 1018  git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
+ 1019  brew update
+ 1020  brew upgrade node
+ 1021  yarn create react-app myreactapp
+ 1022  ls
+ 1023  myreactapp
+ 1024  code .
+ 1025  ls
+ 1026  ..
+ 1027  ls
+ 1028  rm -rf node_modules
+ 1029  rm yarn.lock
+ 1030  ls
+ 1031  myreactapp
+ 1032  yarn
+ 1033  ls
+ 1034  code .
+ 1035  clear
+ 1036  gst
+ 1037  ls
+ 1038  yarn test
+ 1039  yarn build
+ 1040  ls
+ 1041  gst
+ 1042  yarn start
+ 1043  docker ps
+ 1044  docker buid .
+ 1045  docker build -t myreactapp .
+ 1046  docker build -t myreactapp Dockerfile.dev
+ 1047  docker build -t myreactapp /Dockerfile.dev
+ 1048  docker build -t myreactapp ./Dockerfile.dev
+ 1049  docker build -t myreacapp -f Dockerfile.dev . 
+ 1050  docker run myreactapp
+ 1051  docker images
+ 1052  docker run myreacapp
+ 1053  ls
+ 1054  docker run -it -p 3000:3000 myreacapp
+ 1055* docker ps
+ 1056* docker stop d0fb484ebd6c
+ 1057* docker rm d0fb484ebd6c
+ 1058* docker ps
+ 1059* docker stp myreacapp
+ 1060* docker stop myreacapp
+ 1061* docker ps
+ 1062* docker stop 8b74d88bc0d8
+ 1063* docker rm 8b74d88bc0d8
+ 1064  docker run -it -p 3000:3000 -v /app/node_modules -v $(pwd):/app  myreacapp
+ 1065  docker build -t myreactapp -f Dockerfile.dev . 
+ 1066  docker build -t myreacapp -f Dockerfile.dev . 
+ 1067  pwd
+ 1068  ls
+ 1069  workarea/dockercomposeworkshop
+ 1070  myreactapp
+ 1071  docker build -t myreactapp -f Dockerfile.dev . 
+ 1072  docker ps
+ 1073  docker run -it -p 3000:3000 -v /app/node_modules -v $(pwd):/app  myreactapp
+ 1074* docker pd
+ 1075* docker ps
+ 1076* docker stop 542530e9d919
+ 1077  history => mycmd.txt
+ 1078  history
+ 1079  history > commandhistory.txt
+ 1080  docker-compose up
+ 1081* docker ps
+ 1082* docker-compose down
+ 1083* ls
+ 1084* workarea/dockercomposeworkshop/myreactapp
+ 1085* docker-compose down
+ 1086  docker ps
+ 1087  docker images
+ 1088  docker run -it  myreactapp yarn test
+ 1089  docker-compose up
+ 1090* docker ps
+ 1091* docker exec -it 30f083043496 yarn test
+ 1092* docker-compose down
+ 1093* docker ps
+ 1094* docker-compose up
+ 1095* docker-compose down
+ 1096* docker-compose up -build
+ 1097* docker-compose up --build
+ 1098  docker ps
+ 1099* docker-compose down
+ 1100* docker-compose up --build
+ 1101* docker-compose down
+ 1102* docker-compose up --build
+ 1103  docker ps
+ 1104  docker attach b78534cce139
+ 1105* docker-compose down
+ 1106* docker-compose up --build
+ 1107  docker ps
+ 1108  docker exec -it 15a5728b01d3 sh
